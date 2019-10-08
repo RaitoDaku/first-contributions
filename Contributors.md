@@ -8,6 +8,7 @@
 - [Harsh Ranpariya](https://github.com/harshranpariya)
 - [Christina Shafer](https://github.com/ChristinaShafer)
 - [MC_Leut](https://github.com/MCLeut)
+- [RaitoDaku](https://github.com/RaitoDaku)
 - [Michael Robinson](https://github.com/NightFury20)
 - [Davina Leong](https://github.com/DavinaLeong)
 - [Eduardo Hernandez](https://github.com/EduardoGHdez)
